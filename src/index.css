@@ -119,7 +119,7 @@ Navbar
   margin-top: 5rem;
 }
 nav {
-  background: var(--clr-primary);
+  background: var(--clr-red-light);
   padding: 1.25rem 2rem;
 }
 .nav-center {
